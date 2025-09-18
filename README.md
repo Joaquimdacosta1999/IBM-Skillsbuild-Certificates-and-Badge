@@ -8,4 +8,10 @@ Standing of key web development concepts and skills:
 * **Development Processes**: Understand the software development lifecycle, including the waterfall and agile approaches, website testing types, version control systems, and DevOps principles. You'll also learn about continuous delivery and deployment, and responsive design.
 * **Practical Application**: Develop an interactive web page using HTML, CSS, and JavaScript, and perform a simple functional test.
 * **Career Readiness**: Recognize the job market, responsibilities, and skill sets required for web development professionals.
-```
+
+---
+
+## Course Certificates & Key Skills
+
+* **Web Development Basics Certificate**
+* **Developing Sites for the Web**
